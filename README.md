@@ -70,6 +70,9 @@ projeto9-ecommerce-databricks/
 
 **Arquivo:** `01-customers.png`
 
+<img width="1906" height="962" alt="costumers" src="https://github.com/user-attachments/assets/fc374b61-45d6-4d89-bd6c-001dcb6077e6" />
+
+
 Visualização dos dados de clientes extraídos do Supabase.
 
 ---
