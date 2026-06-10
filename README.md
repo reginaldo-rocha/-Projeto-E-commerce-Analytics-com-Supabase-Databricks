@@ -1,4 +1,4 @@
-# 🚀 Projeto 9 — E-commerce Analytics com Supabase + Databricks
+# 🚀 Projeto  — E-commerce Analytics com Supabase + Databricks
 
 ## 📌 Objetivo
 
