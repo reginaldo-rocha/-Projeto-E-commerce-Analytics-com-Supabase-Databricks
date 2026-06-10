@@ -204,7 +204,7 @@ Indicador consolidado da receita total do e-commerce.
 
 ✅ Projeto 8 — PySpark + Data Lake + Airflow + MinIO
 
-✅ 🚀 Projeto 9 — E-commerce Analytics com Supabase + Databricks
+
 
 ---
 
