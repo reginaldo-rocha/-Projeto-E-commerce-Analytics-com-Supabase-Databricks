@@ -30,27 +30,19 @@ Supabase → CSV → Databricks Volumes → Bronze → Silver → Gold → Dashb
 # 📂 Estrutura
 
 ```
-projeto9-ecommerce-databricks/
+screenshots/
 │
-├── sql/
-│   ├── bronze.sql
-│   ├── silver.sql
-│   └── gold.sql
-│
-├── screenshots/
-│   ├── 01-arquitetura.png
-│   ├── 02-supabase.png
-│   ├── 03-bronze.png
-│   ├── 04-silver.png
-│   ├── 05-gold.png
-│   └── 06-dashboard.png
-│
-├── docs/
-│   └── arquitetura.drawio
-│
-├── README.md
-└── .gitignore
-```
+├── 01-customers.png
+├── 02-orders.png
+├── 03-products.png
+├── 04-bronze-databricks.png
+├── 05-order-items.png
+├── 06-categoria.png
+├── 07-produtos-mais-vendidos.png
+├── 08-top-clientes.png
+├── 09-vendas-por-estado.png
+├── 10-resultado-final.png
+└── 11-dashboard-final.png
 
 ---
 
@@ -67,7 +59,6 @@ projeto9-ecommerce-databricks/
 
 ---
 
-# 📸 Sequência dos Prints - Projeto 9
 
 ## 1. Customers
 
