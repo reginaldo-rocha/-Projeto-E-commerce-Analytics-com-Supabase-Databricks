@@ -67,19 +67,105 @@ projeto9-ecommerce-databricks/
 
 ---
 
-# 📸 Evidências do Projeto
+# 📸 Sequência dos Prints - Projeto 9
 
-🗄️ 1. Tabelas criadas no Supabase
+## 1. Customers
 
-📥 2. Dados exportados para CSV
+**Arquivo:** `01-customers.png`
 
-🥉 3. Construção da camada Bronze
+**Descrição:**
+Visualização dos dados de clientes extraídos do Supabase, representando a origem transacional do projeto.
 
-🥈 4. Integração dos dados na camada Silver
+---
 
-🥇 5. Geração dos KPIs na camada Gold
+## 2. Orders
 
-📊 6. Dashboard final no Databricks
+**Arquivo:** `02-orders.png`
+
+**Descrição:**
+Dados referentes aos pedidos realizados pelos clientes no ambiente de e-commerce.
+
+---
+
+## 3. Products
+
+**Arquivo:** `03-products.png`
+
+**Descrição:**
+Catálogo de produtos utilizado para composição das análises de vendas.
+
+---
+
+## 4. Bronze Databricks
+
+**Arquivo:** `04-bronze-databricks.png`
+
+**Descrição:**
+Evidência da ingestão dos dados no Databricks utilizando a camada Bronze da arquitetura Medallion.
+
+---
+
+## 5. Itens (Order Items)
+
+**Arquivo:** `05-order-items.png`
+
+**Descrição:**
+Detalhamento dos itens presentes em cada pedido, permitindo a associação entre pedidos e produtos.
+
+---
+
+## 6. Categoria
+
+**Arquivo:** `06-categoria.png`
+
+**Descrição:**
+Indicador analítico demonstrando a distribuição das receitas por categoria de produto.
+
+---
+
+## 7. Produtos Mais Vendidos
+
+**Arquivo:** `07-produtos-mais-vendidos.png`
+
+**Descrição:**
+Ranking dos produtos com maior volume de vendas dentro do período analisado.
+
+---
+
+## 8. Top Clientes
+
+**Arquivo:** `08-top-clientes.png`
+
+**Descrição:**
+Clientes que geraram maior receita para o negócio, evidenciando oportunidades para ações estratégicas.
+
+---
+
+## 9. Vendas por Estado
+
+**Arquivo:** `09-vendas-por-estado.png`
+
+**Descrição:**
+Análise geográfica das vendas realizadas, permitindo identificar os estados com melhor desempenho.
+
+---
+
+## 10. Resultado Final (KPI)
+
+**Arquivo:** `10-resultado-final.png`
+
+**Descrição:**
+Indicador consolidado apresentando a receita total obtida no cenário analisado.
+
+---
+
+## 11. Dashboard Final
+
+**Arquivo:** `11-dashboard-final.png`
+
+**Descrição:**
+Dashboard analítico contendo os principais KPIs do projeto, proporcionando uma visão executiva do desempenho do e-commerce.
+
 
 ---
 
@@ -128,11 +214,10 @@ projeto9-ecommerce-databricks/
 * Aplicação de boas práticas em Engenharia de Dados
 * Integração entre banco operacional e ambiente analítico
 
-💼 LinkedIn: [www.linkedin.com/in/reginaldorochacloud/](http://www.linkedin.com/in/reginaldorochacloud/)
-
----
 
 # 👨‍💻 Autor
 
 Reginaldo Rocha
-# -Projeto-E-commerce-Analytics-com-Supabase-Databricks
+
+💼 LinkedIn:https://www.linkedin.com/in/reginaldorochacloud/
+
