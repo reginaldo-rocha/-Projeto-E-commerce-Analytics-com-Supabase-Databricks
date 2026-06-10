@@ -81,6 +81,9 @@ Visualização dos dados de clientes extraídos do Supabase.
 
 **Arquivo:** `02-orders.png`
 
+<img width="1911" height="896" alt="ordens" src="https://github.com/user-attachments/assets/dfa92882-15fd-4fdb-b1a3-06b11d61b2d9" />
+
+
 Dados referentes aos pedidos realizados pelos clientes.
 
 ---
@@ -88,6 +91,9 @@ Dados referentes aos pedidos realizados pelos clientes.
 ## 3. Products
 
 **Arquivo:** `03-products.png`
+
+<img width="1900" height="879" alt="produtos" src="https://github.com/user-attachments/assets/21d63d85-5fcd-43a5-bfbe-768936cf0eba" />
+
 
 Catálogo de produtos utilizado nas análises.
 
@@ -97,6 +103,9 @@ Catálogo de produtos utilizado nas análises.
 
 **Arquivo:** `04-bronze-databricks.png`
 
+<img width="1916" height="967" alt="bronze databricks" src="https://github.com/user-attachments/assets/48794db6-0966-4016-8e5a-503aee9fbc6a" />
+
+
 Evidência da ingestão dos dados no Databricks utilizando a camada Bronze.
 
 ---
@@ -104,6 +113,9 @@ Evidência da ingestão dos dados no Databricks utilizando a camada Bronze.
 ## 5. Order Items
 
 **Arquivo:** `05-order-items.png`
+
+<img width="1902" height="865" alt="itens" src="https://github.com/user-attachments/assets/fad8aeb2-9b99-431b-bcda-f883139f6283" />
+
 
 Detalhamento dos itens presentes em cada pedido.
 
@@ -113,6 +125,9 @@ Detalhamento dos itens presentes em cada pedido.
 
 **Arquivo:** `06-categoria.png`
 
+<img width="1555" height="750" alt="categoria" src="https://github.com/user-attachments/assets/e066cfa1-193a-4336-a3e5-ef567256ce49" />
+
+
 Análise da distribuição da receita por categoria de produto.
 
 ---
@@ -120,6 +135,9 @@ Análise da distribuição da receita por categoria de produto.
 ## 7. Produtos Mais Vendidos
 
 **Arquivo:** `07-produtos-mais-vendidos.png`
+
+<img width="1296" height="853" alt="produtos mais vendidos" src="https://github.com/user-attachments/assets/72e01f51-5926-4e75-bf9f-c891d9cb4356" />
+
 
 Ranking dos produtos com maior volume de vendas.
 
@@ -129,6 +147,9 @@ Ranking dos produtos com maior volume de vendas.
 
 **Arquivo:** `08-top-clientes.png`
 
+<img width="1376" height="781" alt="top clientes" src="https://github.com/user-attachments/assets/765665a9-c6ea-445d-9a42-e5450686446d" />
+
+
 Clientes responsáveis pela maior geração de receita.
 
 ---
@@ -136,6 +157,9 @@ Clientes responsáveis pela maior geração de receita.
 ## 9. Vendas por Estado
 
 **Arquivo:** `09-vendas-por-estado.png`
+
+<img width="1400" height="724" alt="vendas por estado" src="https://github.com/user-attachments/assets/ef6bca7a-b6e5-4ceb-9491-bc4448be7126" />
+
 
 Distribuição geográfica das vendas realizadas.
 
@@ -145,15 +169,10 @@ Distribuição geográfica das vendas realizadas.
 
 **Arquivo:** `10-resultado-final.png`
 
+<img width="1456" height="724" alt="resultado final numero" src="https://github.com/user-attachments/assets/9450870e-a7c9-4496-9bd0-44d6d301130d" />
+
+
 Indicador consolidado da receita total do e-commerce.
-
----
-
-## 11. Dashboard Final
-
-**Arquivo:** `11-dashboard-final.png`
-
-Dashboard contendo os principais indicadores desenvolvidos no projeto.
 
 ---
 
