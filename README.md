@@ -51,7 +51,7 @@ projeto9-ecommerce-databricks/
 
 ---
 
-# ⚙️ Pipeline
+ Pipeline
 
 1. Criação das tabelas transacionais no Supabase
 2. Inserção dos dados do e-commerce
@@ -186,21 +186,6 @@ Indicador consolidado da receita total do e-commerce.
 
 ---
 
-# 📚 Série de Projetos em Data Engineering
-
-✅ Projeto 1 — API + SQL
-
-✅ Projeto 2 — Data Warehouse
-
-✅ Projeto 3 — Pipeline contínuo + histórico
-
-✅ Projeto 4 — Cloud + Orquestração
-
-✅ Projeto 5 — AWS EC2 + PostgreSQL + Cloud Pipeline
-
-✅ Projeto 6 — Docker + PostgreSQL + ETL Python
-
-✅ Projeto 7 — Airflow + PostgreSQL + Docker
 
 ✅ Projeto 8 — PySpark + Data Lake + Airflow + MinIO
 
