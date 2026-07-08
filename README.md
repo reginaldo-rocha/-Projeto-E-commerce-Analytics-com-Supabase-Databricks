@@ -51,8 +51,6 @@ projeto9-ecommerce-databricks/
 
 ---
 
- Pipeline
-
 1. Criação das tabelas transacionais no Supabase
 2. Inserção dos dados do e-commerce
 3. Exportação das tabelas para arquivos CSV
