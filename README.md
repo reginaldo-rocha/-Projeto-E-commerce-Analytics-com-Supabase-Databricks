@@ -10,7 +10,7 @@ Supabase (Postgres) ➡️ Exportação CSV ➡️ Databricks Volumes ➡️ Cam
 <img width="1193" height="880" alt="Gemini_Generated_Image_jbhl1sjbhl1sjbhl" src="https://github.com/user-attachments/assets/2385ed4b-0006-407a-a245-4058220acb78" />
 
 
-# 🛠️ Stack
+
 
 * Supabase (PostgreSQL)
 * Databricks SQL
